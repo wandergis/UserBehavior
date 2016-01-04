@@ -5,7 +5,3 @@
 
 ![项目结构](http://7xocdq.com1.z0.glb.clouddn.com/image/f/c8/8ea7a2581c9fd66bc282dc56cebf6.png)
 
-## 截图：
-
-
-![截图](http://7xocdq.com1.z0.glb.clouddn.com/image/c/e3/0bbd16c7a3ae13426960d3920733e.png)
